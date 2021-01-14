@@ -1,0 +1,58 @@
+.header{
+    background-color: #ec489a
+}
+
+.header h1{
+    margin-left: 250px;
+    padding-left: 50px;
+}
+
+.header h2{
+    margin-left: 150px;
+    padding-left: 25px;
+    padding-right: 35px;
+}
+
+.content{
+    color:#4400FF
+}
+
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    outline: auto;
+}
+
+
+.item h3{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.item img{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    align-content: right;
+}
+
+
+.grid{
+    display: flex;
+    outline: auto;
+}
+
+.greeting{
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    background-color: #e018d0
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
